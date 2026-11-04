@@ -25,3 +25,4 @@ if __name__ == "__main__":
     raise SystemExit(main())
 # update note (2026-11-03)
 # revisit later (2026-11-03)
+# refactor bit (2026-11-04)
